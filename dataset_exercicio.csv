@@ -1,0 +1,25 @@
+ID,Nome do Produto,Categoria do Produto,Peso,Unid. Medida,Preço,Data de Fabricação,Categoria
+1,Pão Francês,Padaria,50,g,1.50,2022-08-10,Padaria
+2,Arroz Integral,Mercearia,1000,g,8.00,2022-09-05,Mercearia
+3,Queijo Prato,Frios e Laticínios,300,g,120.60,2022-06-15,Frios e Laticínios
+4,Refrigerante Coca-Cola,Bebidas,,,5.49,2022-08-28,Bebidas
+5,Sabão em Pó,Limpeza,1000,g,7.99,2022-07-10,Limpeza
+6,Shampoo ,Higiene,,,9.50,2022-09-15,Higiene
+7,Ração para Cães,Pet Shop,1000,g,14.99,2022-08-20,Pet Shop
+8,Baguete,Padaria,150,g,1.25,2022-06-30,Padaria
+9,Filé de Frango,Carnes,0.25,g,6.99,2022-09-10,Carnes
+10,Iogurte Natural,Frios e Laticínios,200,g,1.00,2022-08-05,Frios e Laticínios
+11,Detergente Líquido,Limpeza,,,3.99,2022-09-02,Limpeza
+12,Creme Dental,Higiene,0.09,kg,2.50,2022-07-17,Higiene
+13,Cenoura,Hortifruti,0.2,kg,1.49,2022-08-12,Hortifruti
+14,Ração para Gatos,Pet Shop,500,g,9.99,2022-07-30,Pet Shop
+15,Bolinho de Chocolate,Padaria,100,g,2.99,2022-06-25,Padaria
+16,Carne Moída,Carnes,0.5,kg,7.99,2022-09-07,Carnes
+17,Macarrão Espaguete,Mercearia,0.5,kg,2.99,2022-07-18,Mercearia
+18,Manteiga,Frios e Laticínios,200,g,5.25,2022-08-01,Frios e Laticínios
+19,Amaciante de Roupas,Limpeza,,,8.99,2022-09-12,Limpeza
+20,Sabonete Líquido,Higiene,,,4.50,2022-07-22,Higiene
+21,Pão de Queijo,Padaria,200,g,0.10,2022-06-20,Padaria
+22,Peito de Peru Defumado,Carnes,0.15,kg,87.90,2022-09-03,Carnes
+23,Limpador Multiuso,Limpeza,,,5.99,2022-09-05,Limpeza
+24,Condicionador,Higiene,,,6.50,2022-07-15,Higiene
